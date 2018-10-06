@@ -1,0 +1,6 @@
+Comment,Description,Designator,Footprint,LibRef,Quantity
+
+"NE555","IC OSC SINGLE TIMER 100KHZ 8-DIP","","","NE555","1"
+"Cap Semi","Capacitor (Semiconductor SIM Model)","C, C2","C1206","Cap Semi","2"
+"LED","Typical INFRARED GaAs LED","D1","LED-0","LED0","1"
+"Res3","Resistor","R1, R2, R3","J1-0603","Res3","3"
